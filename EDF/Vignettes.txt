@@ -1,0 +1,145 @@
+A.C. is a 2-year-old girl with tuberous sclerosis complex who has been having spells of staring and behavioral arrests.
+- Example of focal unaware seizure, R frontotemporal onset
+
+A.R. is a 10-year-old boy with events a "buzzing" involving the bilateral frontal areas of the head prior to his right arm or both arms reaching behind his head along with movement of his legs.  The events happen both while he is awake and while asleep.  The patient is aware during the events and has not bitten his tongue or been incontinent.
+- Example of nocturnal frontal lobe seizure
+
+B.B. is a 45-year-old man with treatment resistant left occipital focal epilepsy secondary to residual left parafalcine meningioma s/p resection (2012), s/p VA shunt placement (2014), gamma knife (2018). 
+- Example of subclinical seizure, left occipital onset
+
+C.C. is a 2-month-old boy with epileptic encephalopathy from KCNQ2 mutation who presented for increased seizure frequency (back arching events).
+- Example of Ohtahara syndrome: burst-suppression pattern with discharges while awake
+
+C.L. is a 44-year-old with focal epilepsy who presented septic and was encephalopathic. 
+- Example of left phthisis bulbi (only has right eye blinks over right EEG leads)
+
+C.R. is a 78-year-old man who suffered a left basal ganglia hemorrhage and is experiencing recurrent spells of aphasia, sleepiness, and unresponsiveness, usually when sitting upright in a chair. He's had episodes of hypotension throughout the admission.
+- Example of symptomatic hypotension leading to rapid response being called. The patient was ultimately shown to have an acute bilateral pulmonary emboli.
+
+D.B. is a 58-year-old man with intractable focal (bitemporal) epilepsy, etiology traumatic.
+- Examples of focal unaware seizures with both left and right temporal onsets
+
+D.C. is a 13-year-old with autism and focal epilepsy from a large left hemispheric perinatal stroke.
+- Example of right-sided mu rhythm
+
+D.G. is a 9-month-old girl who presented with epileptic spasms.
+- Example of modified hypsarrythmia (only left hemispheric)
+- Example of infantile spasms
+
+D.P. is a 24-year-old man with neurofibromatosis type 1, cerebral palsy, intellectual disability, and focal epilepsy. He is seizure-free following a right anterior mesial temporal lobectomy.
+- Example of focal unaware to bilateral tonic clonic seizure and subclinical seizure both arising from right temporal region.
+
+D.Perna. is a 40-year-old male with unknown history, brought in after begin found unresponsive on the street covered in body lice. He was hypothermic, hypertensive, hypoglycemic, and went on to have two cardiac arrests in the Emergency Room.
+- Example of electrode misplug artifact (F3 and O1 swapped - eyeblinks look wrong)
+
+D.T. is a 48-year-old man with a remote traumatic brain injury and resulting focal epilepsy who developed influenza B and began having seizures and depressed level of consciousness.
+- Example of subclinical seizures arising from bifrontopolar regions
+
+D.Q. is a 10 year old with refractory focal (frontal lobe) epilepsy. He underwent a right frontal resection and pathology demonstrated a type IIa focal cortical dysplasia.
+- Example of tonic seizure when awake
+- Example of tonic seizure when asleep
+
+D.V. is a 25-year-old who was found pulseless in a McDonald's bathroom, reportedly with a needle in his arm. ROSC was achieved after 30 minutes. He was comatose following. Days later, he met AAN clinical criteria for brain death.
+- Example of electrocerebral inactivity
+
+E.S. is a 57-year-old woman with treatment resistant focal epilepsy despite a prior resection of a left supramarginal gyrus cavernous malformation (the resection was conservative given proximity to insula and eloquent cortex).
+- Example of focal unaware seizure, left temporal onset
+
+F.R. is a 42-year-old man with treatment resistant focal epilepsy in the setting of left temporal AVM s/p embolization, gamma knife, and resection.
+- Example of focal unaware seizure, left temporal onset
+
+G.C. is a 1-day-old baby girl born at term who may have had abnormal movements in the day following her birth.
+- Example of normal neonatal EEG
+
+G.S. is a 39-year-old man with focal bitemporal epilepsy. An MRI revealed a glioneuronal tumor in the right mesial temporal region. He underwent a right anterior mesial temporal resection.
+- Example of focal unaware seizure from right temporal region
+- Example of focal unaware seizure from left frontotemporal region
+
+H.D. is a 73-year-old woman with severe coronary artery disease and prior VT/VF arrest from this, as well as asthma, who developed acute respiratory failure and suffered a PEA arrest. EEG was started for persistent coma following.
+- Example of suppressed background, generalized periodic discharges, and seizures
+
+I.H. is a 74-year-old man with posttraumatic focal epilepsy, treatment resistant. An MRI of his brain shows right frontal cystic encephalomalacia.
+- Example of two different focal to bilateral tonic clonic seizures with bilateral posterior quadrant onsets.
+
+I.J. is an 18-year-old young man with SCID s/p bone marrow transplant but with persistent immunodeficiency and autoimmune disease history including myasthenia gravis, vitiligo, adrenal insufficiency, who was admitted for management of incompletely treated autoimmune encephalitis. He was catatonic for much of the admission.
+- Example of excessive beta emerging following a propofol bolus.
+
+I.P. is an 8-year-old boy with spastic cerebral palsy, genetic mutation (16p del), infantile spasms and Lennox-Gastaut syndrome, as well as severe obstructive sleep apnea, who presented after being discovered pulseless at time. ROSC was achieved after 50 minutes.
+- Example of chest PT artifact resembling a seizure
+
+J.F. is a 66-year-old man with longstanding tinnitus, depression and anxiety who had a routine EEG which showed "repeated beta bursts throughout the right hemisphere" without clinical correlate, and sought further evaluation.
+- Example of SREDA 
+
+J.G. is a 52-year-old man with history of head trauma presented intoxicated with alcohol and had two events concerning for focal onset seizures.
+- Example of PNEA
+
+J.M. is a 21-year-old woman with drug resistant focal epilepsy. She has a history of febrile seizures.
+- Example of focal unaware seizure with bifrontal onset
+
+J.O. is a 52-year-old man with prior right basal ganglia hypertensive hemorrhage s/p craniectomy and obstructive hydrocephalus s/p left approach VP shunt and focal epilepsy who presented altered and has since returned to his baseline neurological status.
+- Example of a normal left hemisphere and clear R breach and R slowing.
+
+J.P. is a 70-year-old woman who presented with fever, altered mental status, and seizures, found to have Strep meningitis, and later discovered to have a right frontal encephalocele and CSF leak. She remains encephalopathic, and has developed hyperammonemia from valproate therapy.
+- Example of snot artifact
+
+K.C. is a 15-year-old girl with a left posterior frontal AVM who presented with headache and right-sided weakness.
+- Example of hypoglossal artifact
+
+L.15 was a 44-year-old man who suffered an out of hospital cardiac arrest. Urine toxicology studies were positive for cocaine and marijuana. His head CT showed diffuse cerebral edema and tonsillar herniation.
+- Example of myoclonic generalized periodic discharges
+
+L.T. is a 19-year-old woman with drug resistant focal left temporal epilepsy.
+- Example of a subclinical seizure with left temporal onset
+
+M.F. is an 8-month-old boy with a myelomeningocele and partially treated noncommunicating hydrocephalus.
+- Example of bilaterally independent discontinuous background, bilateral breach (so, high voltage everywhere), L paroxysmal fast activity, and multifocal interictal discharges.
+
+M.G. is a 17-year-old girl with intractable focal bifrontal vs generalized epilepsy and continues to have generalized tonic-clonic seizures
+- Example of subclinical seizure with generalized spike-wave complexes
+
+M.M. is a 68-year-old man with ESRD on HD, hydrocephalus s/p VPS, and lymphoma who was admitted for a VPS revision and Ommaya placement. Hospital course was complicated by cortical nonaneurysmal acute subarachnoid hemorrhage and acute encephalopathy.
+- Example of subclinical status epilepticus from right posterior quadrant
+
+M.N. is a 93-year-old woman with focal epilepsy who presented with acute encephalopathy, found to have a new left occipital acute intraparenchymal hemorrhage. A Ceribell was placed and not consistent with nonconvulsive status epilepticus.
+- Example of a subclinical seizure from the left temporal region
+
+N.M. is a 36-year-old woman with longstanding polysubstance abuse who presented following an overdose of bupropion, cocaine, and PCP. She had a depressed level of consciousness and developed abnormal movements.
+- Example of myoclonic and tonic seizures
+
+O.C. is a 2-month-old girl with DiGeorge syndrome with associated holoprosencephaly, myelomeningocele, and hydrocephalus s/p VPS. He developed eyelid and face twitching later in his hospital stay.
+- Example of neonatal subclinical seizure
+
+P.N. is a 12-year-old girl with intractable generalized symptomatic epilepsy, impulsiveness, hyperactivity and failure to thrive.
+- Example of subclinical seizures and interictals from right frontotemporal region
+
+R.T. is a 52-year-old man who presented with cognitive changes.
+- Example of photic driving
+
+S.A. is an 18-year-old man with NORSE of unclear etiology.
+- Example of focal unaware seizure, unclear onset
+
+S.C. is a 31-year-old woman with alcohol abuse and two lifetime losses of consciousness described by bystanders as convulsions.
+- Example of REM sleep
+
+S.D. is a 20-year-old with focal right temporal epilepsy who is seizure-free following a right anterior mesial temporal lobectomy.
+- Example of focal unaware seizure, right temporal onset
+
+T.C. is a 25-year-old man with treatment resistant focal epilepsy arising from the left anterior insula, s/p prior failed left temporal lobectomy and left insular laser interstitial thermal therapy (LITT). 
+- Example of subclinical seizure, left temporal onset
+
+T.J. is a 63-year-old woman with focal right temporal epilepsy who remains seizure-free following a right anterior temporal lobectomy.
+- Example of focal unaware seizure, right temporal onset
+
+T.L. is a 45-year-old man with hypertension off medication who presented with encephalopathy and right-sided weakness who was found to have a high left frontal lobar ICH (ICH score 0).
+- Example of FIRDA
+
+T.S. is a 2-month-old boy who had neonatal sepsis from Klebsiella pneumoniae and presented with spells of abnormal movements.
+- Example of hypsarrythmia
+- Example of infantile spasm
+- Example of patting artifact
+
+Y.E. is a 13-year-old boy with poor school performance and inattention.
+- Example of absence seizure
+
+Z.V. is a 45-year-old woman with anxiety, depression with prior suicide attempt, and psychosis who also has intractable focal right temporal epilepsy, likely secondary to a cavernoma.
+- Example of focal unaware seizure, right frontotemporal onset
